@@ -17,13 +17,11 @@ function App() {
           </p>
         </div>
         <div>
-
           <p>
             Created by <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/miguelangelmorato84/">Miguel Ángel Morato</a>
           </p>
         </div>
       </div>
-
     </div>
 
   );
